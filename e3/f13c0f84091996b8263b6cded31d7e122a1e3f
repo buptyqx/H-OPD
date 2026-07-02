@@ -1,0 +1,62 @@
+README.md
+  h_b98f52e40b78d7 23-37,39,41-45,47-49 gitai:{"mixed_line_ranges":[{"Single":23}],"operations":[]}
+  s_1166d337de48d7::t_e6152b8a39fbd8 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "e3f13c0f84091996b8263b6cded31d7e122a1e3f",
+  "prompts": {},
+  "humans": {
+    "h_b98f52e40b78d7": {
+      "author": "buptyqx <buptyqx@bupt.edu.cn>"
+    }
+  },
+  "sessions": {
+    "s_1166d337de48d7": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-e777b5d6-c1b5-4308-8c0a-07a324047c9f",
+        "model": "default"
+      },
+      "human_author": "buptyqx <buptyqx@bupt.edu.cn>"
+    }
+  },
+  "attestation_metadata": {
+    "README.md": [
+      {
+        "hash": "h_b98f52e40b78d7",
+        "line_ranges": [
+          {
+            "Range": [
+              23,
+              37
+            ]
+          },
+          {
+            "Single": 39
+          },
+          {
+            "Range": [
+              41,
+              45
+            ]
+          },
+          {
+            "Range": [
+              47,
+              49
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 23
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
