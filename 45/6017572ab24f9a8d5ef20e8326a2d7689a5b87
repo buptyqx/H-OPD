@@ -1,0 +1,45 @@
+README.md
+  h_b98f52e40b78d7 27-30,35-45 gitai:{"mixed_line_ranges":[{"Single":27},{"Single":45}],"operations":[]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "456017572ab24f9a8d5ef20e8326a2d7689a5b87",
+  "prompts": {},
+  "humans": {
+    "h_b98f52e40b78d7": {
+      "author": "buptyqx <buptyqx@bupt.edu.cn>"
+    }
+  },
+  "attestation_metadata": {
+    "README.md": [
+      {
+        "hash": "h_b98f52e40b78d7",
+        "line_ranges": [
+          {
+            "Range": [
+              27,
+              30
+            ]
+          },
+          {
+            "Range": [
+              35,
+              45
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 27
+          },
+          {
+            "Single": 45
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
