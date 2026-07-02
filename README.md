@@ -20,6 +20,33 @@ Qixiang Yin<sup>1,6</sup>, Huanjin Yao<sup>2</sup>, Cai Yuchen<sup>3</sup>, Jian
 </h5>
 </div>
 
+## 📊 Datasets
+
+All datasets are available on HuggingFace:
+
+<a href='https://huggingface.co/datasets/qixiangbupt/H-OPD-data'><img src='https://img.shields.io/badge/Datasets-HuggingFace-yellow'></a>
+
+### Training Data
+
+We train our models on **MMFineReason-123K**. Under the same experimental setting:
+- We use a multimodal teacher model to generate image descriptions
+- We employ GPT-4.1-mini to assess the correctness of these descriptions
+- After filtering, we obtain **55K** high-quality training samples, which are used consistently across all training settings
+
+**Filename:** `mmfine_reason_sampled_55k_text_prompt.parquet`
+
+### Validation Data
+
+We sample validation sets from three math reasoning benchmarks:
+
+| Benchmark | Filename |
+|-----------|----------|
+| MathVerse | `mathverse_200_test.parquet` |
+| MathVision | `mathvision_test.parquet` |
+| MathVista | `mathvista_200_test.parquet` |
+
+
+
 
 
 ## 🎙️ News
