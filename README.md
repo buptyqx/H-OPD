@@ -4,23 +4,31 @@
 
 ![H-OPD Framework](fig/main.jpg)
 
-<h5 align="center"> If you find this project useful, please give us a star🌟.
+<h5 align="center">If you find this project useful, please give us a star🌟.</h5>
 
-<h5 align="center">
-
+<p align="center">
 Qixiang Yin<sup>1,6</sup>, Huanjin Yao<sup>2</sup>, Cai Yuchen<sup>3</sup>, Jianghao Chen<sup>6</sup>, Ziyi Wang<sup>1</sup>, Min Yang<sup>2,*</sup>, Fei Su<sup>1,4,5</sup>, Zhicheng Zhao<sup>1,4,5,*</sup>
+</p>
 
+<p align="center">
 <sup>1</sup> Beijing University of Posts and Telecommunications, <sup>2</sup> ByteDance, <sup>3</sup> USTC
+</p>
 
+<p align="center">
 <sup>4</sup> Beijing Key Laboratory of Network System and Network Culture
+</p>
 
+<p align="center">
 <sup>5</sup> Key Laboratory of Interactive Technology and Experience System, Ministry of Culture and Tourism
+</p>
 
+<p align="center">
 <sup>6</sup> Zhongguancun Academy, Beijing, China
+</p>
 
+<p align="center">
 <sup>*</sup> Corresponding Author
-
-</h5>
+</p>
 </div>
 
 ## 📊 Datasets
