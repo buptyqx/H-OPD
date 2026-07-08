@@ -1,0 +1,87 @@
+README.md
+  h_b98f52e40b78d7 5-6
+.gitignore
+  s_7d89444e0b3804::t_f53285e57351bd 1 gitai:{"mixed_line_ranges":[{"Single":1}],"operations":[]}
+  s_370da3b10bf8fa::t_2af156ba247977 5
+  s_a94da7d64c6ad4::t_304f723ee1d660 3
+  s_a59b458e10b133::t_4aa6417ec64a75 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bea5a202d38bdbfbabcd404206508cf783271bce",
+  "prompts": {},
+  "humans": {
+    "h_b98f52e40b78d7": {
+      "author": "buptyqx <buptyqx@bupt.edu.cn>"
+    }
+  },
+  "sessions": {
+    "s_370da3b10bf8fa": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-5a62e2d6-7df1-4fea-bc79-3c6ecbdfdc97",
+        "model": "default"
+      },
+      "human_author": "buptyqx <buptyqx@bupt.edu.cn>"
+    },
+    "s_7d89444e0b3804": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-c88f9b18-163a-4340-bde9-094106a39fa0",
+        "model": "default"
+      },
+      "human_author": "buptyqx <buptyqx@bupt.edu.cn>"
+    },
+    "s_a59b458e10b133": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-0021dd95-a593-4d01-a6da-6465a96df36b",
+        "model": "default"
+      },
+      "human_author": "buptyqx <buptyqx@bupt.edu.cn>"
+    },
+    "s_a94da7d64c6ad4": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-8bb0c2d4-7f39-4889-9ea1-d193d1f27092",
+        "model": "default"
+      },
+      "human_author": "buptyqx <buptyqx@bupt.edu.cn>"
+    }
+  },
+  "attestation_metadata": {
+    ".gitignore": [
+      {
+        "hash": "s_7d89444e0b3804::t_f53285e57351bd",
+        "line_ranges": [
+          {
+            "Single": 1
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 1
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_6e6530f4cebf5d": {
+      "tool": "trae",
+      "conversation_id": "6a46094bd38df53cd3e47bbd",
+      "session_id": "6a46094bd38df53cd3e47bbd",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_6e6530f4cebf5d::t_70f70f75764603": {
+      "tool": "trae",
+      "conversation_id": "6a46094bd38df53cd3e47bbd",
+      "session_id": "6a46094bd38df53cd3e47bbd",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
