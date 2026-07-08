@@ -1,6 +1,5 @@
-verl/
-scripts/
-h_opd_code.zip
+.scripts/
 run_hopd.sh
-setup.py
+verl/
 requirements.txt
+setup.py
