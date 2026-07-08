@@ -1,0 +1,14 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4eecd27847970243f8bb6474359edbdd305909e3",
+  "prompts": {},
+  "humans": {
+    "h_b98f52e40b78d7": {
+      "author": "buptyqx <buptyqx@bupt.edu.cn>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
