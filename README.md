@@ -3,6 +3,7 @@
 <h1> H-OPD: Confidence Aware Heterogeneous Multi-Teacher Multimodal On-policy Distillation </h1>
 
 <a href='https://arxiv.org/abs/2607.02592'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a>
+<a href='https://huggingface.co/datasets/qixiangbupt/H-OPD-data'><img src='https://img.shields.io/badge/Datasets-HuggingFace-yellow'></a>
 
 ![H-OPD Framework](fig/main.jpg)
 
